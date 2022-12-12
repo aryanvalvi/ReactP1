@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-js-projects/static/css/main.abd64e84.css",
-    "main.js": "/React-js-projects/static/js/main.21ffa0e9.js",
-    "static/js/787.28cb0dcd.chunk.js": "/React-js-projects/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/React-js-projects/index.html",
-    "main.abd64e84.css.map": "/React-js-projects/static/css/main.abd64e84.css.map",
-    "main.21ffa0e9.js.map": "/React-js-projects/static/js/main.21ffa0e9.js.map",
-    "787.28cb0dcd.chunk.js.map": "/React-js-projects/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/npm%20install%20--save%20gh-pagesReactP1/static/css/main.abd64e84.css",
+    "main.js": "/npm%20install%20--save%20gh-pagesReactP1/static/js/main.28a539df.js",
+    "static/js/787.28cb0dcd.chunk.js": "/npm%20install%20--save%20gh-pagesReactP1/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/npm%20install%20--save%20gh-pagesReactP1/index.html",
+    "main.abd64e84.css.map": "/npm%20install%20--save%20gh-pagesReactP1/static/css/main.abd64e84.css.map",
+    "main.28a539df.js.map": "/npm%20install%20--save%20gh-pagesReactP1/static/js/main.28a539df.js.map",
+    "787.28cb0dcd.chunk.js.map": "/npm%20install%20--save%20gh-pagesReactP1/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.21ffa0e9.js"
+    "static/js/main.28a539df.js"
   ]
 }
